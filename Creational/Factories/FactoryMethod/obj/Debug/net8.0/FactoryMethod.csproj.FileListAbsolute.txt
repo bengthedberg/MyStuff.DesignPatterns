@@ -1,0 +1,14 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

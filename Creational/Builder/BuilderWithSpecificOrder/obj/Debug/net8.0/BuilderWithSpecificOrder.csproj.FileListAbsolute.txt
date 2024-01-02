@@ -1,0 +1,14 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\bin\Debug\net8.0\BuilderWithSpecificOrder.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\bin\Debug\net8.0\BuilderWithSpecificOrder.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\bin\Debug\net8.0\BuilderWithSpecificOrder.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\bin\Debug\net8.0\BuilderWithSpecificOrder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\bin\Debug\net8.0\BuilderWithSpecificOrder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\refint\BuilderWithSpecificOrder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\BuilderWithSpecificOrder.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\BuilderWithSpecificOrder\obj\Debug\net8.0\ref\BuilderWithSpecificOrder.dll

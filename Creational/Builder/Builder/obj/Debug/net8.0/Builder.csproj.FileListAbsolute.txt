@@ -1,0 +1,14 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\bin\Debug\net8.0\Builder.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\bin\Debug\net8.0\Builder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll

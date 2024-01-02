@@ -1,0 +1,14 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\bin\Debug\net8.0\FacatedBuilder.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\bin\Debug\net8.0\FacatedBuilder.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\bin\Debug\net8.0\FacatedBuilder.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\bin\Debug\net8.0\FacatedBuilder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\bin\Debug\net8.0\FacatedBuilder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\refint\FacatedBuilder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\FacatedBuilder.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FacatedBuilder\obj\Debug\net8.0\ref\FacatedBuilder.dll

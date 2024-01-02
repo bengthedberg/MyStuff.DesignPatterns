@@ -1,0 +1,14 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\bin\Debug\net8.0\FunctionBuilder.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\bin\Debug\net8.0\FunctionBuilder.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\bin\Debug\net8.0\FunctionBuilder.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\bin\Debug\net8.0\FunctionBuilder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\bin\Debug\net8.0\FunctionBuilder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\refint\FunctionBuilder.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\FunctionBuilder.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Builder\FunctionBuilder\obj\Debug\net8.0\ref\FunctionBuilder.dll
