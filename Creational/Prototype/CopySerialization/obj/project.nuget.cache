@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqKuVTAfyeYNeRaLM023GrdfAV2Bao4iZOChxYvdCOkggVYJw2SWU59DQpB+kHqFGID1HrJnXjMbPgpcoa+r/A==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\MyStuff.DesignPatterns\\Creational\\Prototype\\CopySerialization\\CopySerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bengt.Hedberg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

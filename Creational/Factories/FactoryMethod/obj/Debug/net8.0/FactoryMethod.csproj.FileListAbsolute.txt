@@ -12,3 +12,4 @@ C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json

@@ -12,3 +12,4 @@ C:\dev\MyStuff.DesignPatterns\Creational\Factories\AsynchFactoryMethod\obj\Debug
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\AsynchFactoryMethod\obj\Debug\net8.0\AsynchFactoryMethod.pdb
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\AsynchFactoryMethod\obj\Debug\net8.0\AsynchFactoryMethod.genruntimeconfig.cache
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\AsynchFactoryMethod\obj\Debug\net8.0\ref\AsynchFactoryMethod.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\AsynchFactoryMethod\obj\Debug\net8.0\AsynchFactoryMethod.sourcelink.json

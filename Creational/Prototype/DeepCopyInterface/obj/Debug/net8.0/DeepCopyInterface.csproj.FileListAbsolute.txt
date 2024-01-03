@@ -1,0 +1,15 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\bin\Debug\net8.0\DeepCopyInterface.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\bin\Debug\net8.0\DeepCopyInterface.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\bin\Debug\net8.0\DeepCopyInterface.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\bin\Debug\net8.0\DeepCopyInterface.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\bin\Debug\net8.0\DeepCopyInterface.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.sourcelink.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\refint\DeepCopyInterface.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\DeepCopyInterface.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\DeepCopyInterface\obj\Debug\net8.0\ref\DeepCopyInterface.dll

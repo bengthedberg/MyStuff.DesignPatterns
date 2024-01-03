@@ -12,3 +12,4 @@ C:\dev\MyStuff.DesignPatterns\Creational\Factories\AbstractFactory\obj\Debug\net
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json

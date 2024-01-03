@@ -12,3 +12,4 @@ C:\dev\MyStuff.DesignPatterns\Creational\Factories\Factory\obj\Debug\net8.0\refi
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\Factory\obj\Debug\net8.0\Factory.pdb
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\Factory\obj\Debug\net8.0\Factory.genruntimeconfig.cache
 C:\dev\MyStuff.DesignPatterns\Creational\Factories\Factory\obj\Debug\net8.0\ref\Factory.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Factories\Factory\obj\Debug\net8.0\Factory.sourcelink.json

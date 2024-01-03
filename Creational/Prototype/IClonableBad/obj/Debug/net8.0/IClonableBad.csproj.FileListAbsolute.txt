@@ -1,0 +1,15 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\bin\Debug\net8.0\IClonableBad.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\bin\Debug\net8.0\IClonableBad.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\bin\Debug\net8.0\IClonableBad.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\bin\Debug\net8.0\IClonableBad.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\bin\Debug\net8.0\IClonableBad.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.sourcelink.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\refint\IClonableBad.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\IClonableBad.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\IClonableBad\obj\Debug\net8.0\ref\IClonableBad.dll

@@ -1,0 +1,15 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\bin\Debug\net8.0\CopyConstructors.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\bin\Debug\net8.0\CopyConstructors.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\bin\Debug\net8.0\CopyConstructors.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\bin\Debug\net8.0\CopyConstructors.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\bin\Debug\net8.0\CopyConstructors.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.sourcelink.json
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\refint\CopyConstructors.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\CopyConstructors.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Prototype\CopyConstructors\obj\Debug\net8.0\ref\CopyConstructors.dll
