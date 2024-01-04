@@ -23,6 +23,12 @@ Provides a mechanism to copy the original object to a new object and then modify
 
 Ensure that a class has only one instance, while providing a global access point to this instance.
 
+## Disadvantages
 
+The use of singleton can make it harder to test the code as its difficult to mock the behaviour. 
+
+Always use interfaces to implement your singleton, together with dependency injection to work around this iussue.
+
+Remember not to create dependencies on concrete classes, rather abstraction (interfaces).
 
 

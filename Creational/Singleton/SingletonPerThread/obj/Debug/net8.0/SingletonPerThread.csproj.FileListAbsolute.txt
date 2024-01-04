@@ -1,0 +1,15 @@
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\bin\Debug\net8.0\SingletonPerThread.exe
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\bin\Debug\net8.0\SingletonPerThread.deps.json
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\bin\Debug\net8.0\SingletonPerThread.runtimeconfig.json
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\bin\Debug\net8.0\SingletonPerThread.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\bin\Debug\net8.0\SingletonPerThread.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.AssemblyInfoInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.AssemblyInfo.cs
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.csproj.CoreCompileInputs.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.sourcelink.json
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\refint\SingletonPerThread.dll
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.pdb
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\SingletonPerThread.genruntimeconfig.cache
+C:\dev\MyStuff.DesignPatterns\Creational\Singleton\SingletonPerThread\obj\Debug\net8.0\ref\SingletonPerThread.dll
